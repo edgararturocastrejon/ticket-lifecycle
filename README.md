@@ -12,7 +12,7 @@ This is a continuation of the <a href= "https://github.com/edgararturocastrejon/
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Microsoft Remote Desktop
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
