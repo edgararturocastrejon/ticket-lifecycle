@@ -44,7 +44,7 @@ entire mobile/online banking system is down <p/>
 <p>
 As a Help Desk Agent (john), observe the ticket’s properties: </p>
 	Priority, Department, SLA, Assigned To </p>
- Admin/Analyst Login Page:
+ Admin/Analyst Login Page URL:
  <a href= "http://localhost/osTicket/scp/login.php">http://localhost/osTicket/scp/login.php </a> 
 </p>
 <br />
