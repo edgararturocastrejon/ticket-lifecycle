@@ -31,8 +31,8 @@ This is a continuation of the <a href= "https://github.com/edgararturocastrejon/
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p> As an end-user, <a href= "http://localhost/osTicket">End Users osTicket URL </a> create the following ticket <p/>
+entire mobile/online banking system is down
 </p>
 <br />
 
