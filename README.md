@@ -27,30 +27,13 @@ This is a continuation of the <a href= "https://github.com/edgararturocastrejon/
 - Resolution
 
 <h2>Lifecycle Stages</h2>
-<p>
-
-![Screen Shot 2024-10-07 at 6 05 42 PM](https://github.com/user-attachments/assets/7708951c-0cb3-4538-8732-80928dd60349)
-
-</p>
-<p>
-1) Login to Admin DELETE the Maintenance Department (not archive) <p/>
-<p> Admin Panel -> Agents -> Department -> Maintenance </p> 
-Admin/Analyst Login Page URL:
- <a href= "http://localhost/osTicket/scp/login.php">http://localhost/osTicket/scp/login.php </a> 
-	
-</p>
-<br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Screen Shot 2024-10-07 at 7 06 26 PM](https://github.com/user-attachments/assets/0bcc415a-4bbd-4ead-b994-1406fe3b693d)
+![Screen Shot 2024-10-07 at 7 18 53 PM](https://github.com/user-attachments/assets/03340abe-3895-4de0-b78c-c14bf593ad51)
+![Screen Shot 2024-10-07 at 7 19 08 PM](https://github.com/user-attachments/assets/d85504af-3d89-493d-b416-4eaf192d8795)
+
 </p>
 <p> As an end-user, create the following ticket: <p/>
 entire mobile/online banking system is down <p/>
@@ -60,7 +43,13 @@ entire mobile/online banking system is down <p/>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+	
+![Screen Shot 2024-10-07 at 7 23 13 PM](https://github.com/user-attachments/assets/4dbc8d6e-2bd2-409e-9ee2-d6ecb0835598)
+![Screen Shot 2024-10-07 at 8 00 33 PM](https://github.com/user-attachments/assets/183d6aad-0ba8-4c7f-899d-ee67fd161ea3)
+![Screen Shot 2024-10-07 at 7 59 38 PM](https://github.com/user-attachments/assets/bde04476-6de3-456e-a4b2-bee90c6400ac)
+![Screen Shot 2024-10-07 at 8 01 55 PM](https://github.com/user-attachments/assets/9a85ee8b-2e17-4112-900d-08e3f81f5f4b)
+
+
 </p>
 <p>
 As a Help Desk Agent (john), observe the ticket’s properties: </p>
@@ -71,10 +60,16 @@ As a Help Desk Agent (john), observe the ticket’s properties: </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+	
+![Screen Shot 2024-10-07 at 8 09 46 PM](https://github.com/user-attachments/assets/b2f6c809-95cd-4650-93e2-5ee2745c7c3f)
+![Screen Shot 2024-10-07 at 8 33 44 PM](https://github.com/user-attachments/assets/5600d205-88f4-4d15-97ef-008e944108de)
+![Screen Shot 2024-10-07 at 8 38 54 PM](https://github.com/user-attachments/assets/c06674b0-fe36-4f68-a997-1f86110a2010)
+![Screen Shot 2024-10-07 at 8 40 37 PM](https://github.com/user-attachments/assets/0710e01f-033e-41af-9efd-aa0ee44af344)
+![Screen Shot 2024-10-07 at 8 42 58 PM](https://github.com/user-attachments/assets/c66f1201-ab0e-4bfc-9e89-38fb848626ff)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Work the ticket to completion as jane
 </p>
 <br />
 
